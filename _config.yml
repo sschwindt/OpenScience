@@ -1,0 +1,33 @@
+title: Open River Science
+description: > # this means to ignore newlines until "baseurl:"
+  The reproducibility of scientific analyses is a hallmark of sound research. 
+permalink: ':title/'
+baseurl: "/OpenScience" # the subpath of your site, e.g. /blog
+url: "https://github.com/sschwindt" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Author Settings
+author: Open Science # add your name
+author-img: water.jpg # add your photo
+about-author: A database including code analyses for published research. # add description
+social-github: sschwindt # add your Github handle
+social-linkedin: http://www.linkedin.com/in/sebastian-schwindt # add your Linkedin handle
+social-email: # add your Email address
+
+# Disqus
+discus-identifier: # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 20
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
