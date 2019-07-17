@@ -1,4 +1,4 @@
-title: Open River Science
+title: Open Science Data
 description: > # this means to ignore newlines until "baseurl:"
   The reproducibility of scientific analyses is a hallmark of sound research. 
 permalink: ':title/'
@@ -7,12 +7,12 @@ url: "https://github.com/sschwindt" # the base hostname & protocol for your site
 
 
 # Author Settings
-author: Open Science # add your name
+author: Sebastian Schwindt # add your name
 author-img: water.jpg # add your photo
-about-author: A database including code analyses for published research. # add description
+about-author: Codes and data used in published research by Sebastian Schwindt. # add description
 social-github: sschwindt # add your Github handle
-social-linkedin: http://www.linkedin.com/in/sebastian-schwindt # add your Linkedin handle
-social-email: # add your Email address
+social-linkedin: sebastian-schwindt # add your Linkedin handle
+social-email: sschwindt[at]ucdavis.edu # add your Email address
 
 # Disqus
 discus-identifier: # add your discus identifier
