@@ -8,7 +8,7 @@ layout: default
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.title}}"></a>
       </div>
-      <div class="author-name">{{site.author}}</div>
+      <div class="author-name">{{site.title}}</div>
       <p>{{site.about-author}}</p>
     </div>
   </header> <!-- End Header -->
@@ -34,7 +34,7 @@ layout: default
       </ul>
     </section> <!-- End Section Contact -->
     <div class="copyright">
-      <p>{{site.time | date: '%Y'}} &copy; {{site.author}}</p>
+      <p>{{site.time | date: '%Y'}} &copy; <a href="https://sebastian-schwindt.org"></a>{{site.author}}</a></p>
     </div>
   </footer> <!-- End Footer -->
 </aside> <!-- End Sidebar -->
