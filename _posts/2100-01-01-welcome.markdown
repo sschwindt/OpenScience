@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Welcome to Open River Science!"
+date: 2100-01-01 00:00:10 +0300
+description: Welcome address and purpose # Add post description (optional)
+img: free_birds.jpg # Add image post (optional)
+---
+
+The reproducibility of scientific analyses is a hallmark of sound research. This is why posts on this site link to repositories containting data and codes used in my scientific publications.
+
+The `pydroscape` *Python* package provides generalized routines that I wrote for signal processing, analyses, and processing of raw data from loggers, numerical models, or geospatial databases.
+

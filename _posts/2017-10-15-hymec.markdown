@@ -1,0 +1,12 @@
+---
+layout: post
+title: Analysis of mechanical-hydraulic bedload deposition control measures
+date: 2017-10-15 00:00:01 +0300
+description: Competing sediment controls harmonized. # Add post description (optional)
+img: hymec.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [engineering, hybrid controls, hydraulics, bedload, sediment transport, morphodynamics, floods]
+---
+
+With our paper [*Analysis of mechanical-hydraulic bedload deposition control measures*](http://www.sciencedirect.com/science/article/pii/S0169555X17302969)​ we address known problems of sediment traps in Mountain Rivers to improve Flood Protection and river continuity.
+[**Click here to retrieve Citation information, Data and Codes.**](https://sschwindt.github.io/pub-hymec/)
