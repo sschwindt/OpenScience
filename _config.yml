@@ -9,7 +9,7 @@ url: "https://github.com/sschwindt" # the base hostname & protocol for your site
 # Author Settings
 author: Sebastian Schwindt # add your name
 author-img: water.jpg # add your photo
-about-author: Codes and data used in published research by Sebastian Schwindt. (site under construction) # add description
+about-author: Codes and data used in published research by Sebastian Schwindt.
 social-github: sschwindt # add your Github handle
 social-linkedin: sebastian-schwindt # add your Linkedin handle
 social-email: sschwindt[at]ucdavis.edu # add your Email address
@@ -18,7 +18,7 @@ social-email: sschwindt[at]ucdavis.edu # add your Email address
 discus-identifier: # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: 113195988 # Google Analytics
 
 # Build Settings
 markdown: kramdown
